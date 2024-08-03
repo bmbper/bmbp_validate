@@ -1,0 +1,14 @@
+[workspace]
+members = ["crates/*"]
+resolver = "2"
+[workspace.package]
+version = "0.0.0"
+edition = "2021"
+authors = ["bmbp<rs_bmbp.163.com>"]
+description = "BMBP VALIDATE"
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/bmbper/bmbp_validate"
+repository = "https://github.com/bmbper/bmbp_validate"
+documentation = "https://github.com/bmbper/bmbp_validate"
+[workspace.dependencies]
