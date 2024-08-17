@@ -1,5 +1,5 @@
 [package]
-name = "bmbp_validate_bean"
+name = "bmbp_validate_rdbc"
 version.workspace = true
 edition.workspace = true
 authors.workspace = true
